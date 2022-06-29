@@ -59,7 +59,7 @@ def mapperClose():
   
 startTime = datetime.now()
 
-workingDir = r'C:\Users\lukasz.przystalski\OneDrive - Avantor\Desktop\mapper'
+workingDir = r'C:\Users\*\Desktop\mapper'
 time.sleep(3)
 
 mapperPrep()
